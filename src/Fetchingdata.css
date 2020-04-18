@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://scontent.ftun10-1.fna.fbcdn.net/v/t1.0-9/73159919_2575651129144723_4515261043399720960_n.jpg?_nc_cat=107&_nc_sid=dd9801&_nc_ohc=5qlGvDVedlUAX_r8hfr&_nc_ht=scontent.ftun10-1.fna&oh=14c844d08192577f0f8a460e679be5d8&oe=5EBEE777);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container{
+    background: white;
+    width: 50%;
+    padding: 40px;
+    margin: 100px auto;
+    font-family: calibri;
+    border-radius: 10px;
+}
+
+p{
+    font-size: 25px;
+    color: black;
+    text-align: center;
+}
+img {
+    border-radius: 15px;
+    padding: 5px;
+    width: 150px;
+  }
